@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+This is a Python script written for The Forundry|Nuke. Looks for Retime nodes and calculates the offset value for the Read Nodes connected upstream to it.
 
 ![](header.png)
 
@@ -55,7 +55,7 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Your Name – [@YourTwitter](https://twitter.com/dbader_org) – boris.vfx@outlook.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
